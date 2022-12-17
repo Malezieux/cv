@@ -1,0 +1,123 @@
+.page {
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 210mm;
+    height: 297mm;
+    border: 3px solid black;
+    font-family: Cambria;
+}
+
+.photo img {
+    width: 150px;
+    height: 150px;
+    border: 3px solid #fff;
+    box-shadow: 0px 0px 10px #777;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+.left {
+    float: left;
+    padding: 20pt 0cm 10pt 0cm;
+    width: 30%;
+
+}
+
+
+.right {
+    float: right;
+    padding: 20pt 0cm 0pt 0cm;
+    background: #98c9d8;
+    width: 60%;
+    height: 290mm;
+}
+
+.blockblanc {
+    background-color: #fff;
+    border-radius: 10px;
+    height: 40px;
+    margin-top: 30px;
+    display: flex;
+
+    align-items: center;
+}
+
+h0 {
+    font-size: 16pt;
+    font-weight: bold;
+    padding: 1em ;
+    vertical-align: middle;
+
+}
+
+h1 {
+    font-size: 16pt;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 12pt;
+}
+
+adresse {
+    font-size: 10pt;
+
+}
+
+ul {
+    font-size: 10pt;
+}
+
+p {
+    font-size: 10pt;
+
+}
+
+nom {
+    font-size: 25pt;
+
+}
+
+.contact {
+    top: 36pt;
+    text-align: left;
+    margin-left: 12pt;
+}
+
+.images img {
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+
+}
+img{
+    margin-left: 30px;
+}
+
+.marge {
+    margin-left: 12pt;
+    margin-right: 12pt;
+}
+
+.blocktext {
+    text-align: top;
+    margin-top: 20px;
+    line-height: 10pt;
+
+
+}
+
+status {
+    font-size: 18pt;
+    margin-top: 40px;
+}
+
+titre {
+    font-size: 18pt;
+}
+
+titre2 {
+    font-size: 12pt;
+    font-weight: bold;
